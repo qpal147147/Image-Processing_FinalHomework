@@ -16,4 +16,6 @@
 9   | 消除紅眼 | 將照片紅眼的影響進行處理與修復
 10   | AsciiArt | 將圖片轉成ASCII風格
   
-- # 描邊  
+- ### 描邊  
+原始圖像：
+![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/dog.jpeg)
