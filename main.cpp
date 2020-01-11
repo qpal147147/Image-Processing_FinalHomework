@@ -280,7 +280,7 @@ int main() {
 					break;
 				case 4:
 				{
-					Mat img = imread("C:\\Users\\user\\Desktop\\i.jpg", IMREAD_REDUCED_COLOR_4);
+					Mat img = imread("watermark.jpg", IMREAD_REDUCED_COLOR_4);
 					if (!img.empty()) {
 						onChangePaint(r1, &img);
 						createTrackbar("r", "Before", &r1, 255, onChangePaint, &img);
@@ -313,7 +313,7 @@ int main() {
 					if (!image.empty()) {
 						onChangeZoom(maxPercent, &image);
 						createTrackbar("Zoom", "dst", &maxPercent, maxPercent, onChangeZoom, &image);
-						createTrackbar("Contrast", "dst", &gamma, 20, onChangeZoom, &image);
+						createTrackbar("Brightness", "dst", &gamma, 20, onChangeZoom, &image);
 						createTrackbar("Angle", "dst", &angle, 360, onChangeZoom, &image);
 						waitKey(0);
 					}
