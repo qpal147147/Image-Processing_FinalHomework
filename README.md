@@ -17,5 +17,6 @@
 10   | AsciiArt | 將圖片轉成ASCII風格
   
 - ### 描邊  
-原始圖像：
-![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/dog.jpeg)
+原始圖案|處理後
+-------|------
+![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/dog.jpeg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/dog.jpeg)
