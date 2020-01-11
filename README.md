@@ -14,9 +14,9 @@
 7   | 毛玻璃 | 將圖片轉成毛玻璃風格
 8   | 縮放、明暗、旋轉 | 三合一功能，不用為了使用某一功能而重新處理
 9   | 消除紅眼 | 將照片紅眼的影響進行處理與修復
-10   | AsciiArt | 將圖片轉成ASCII風格
+10  | AsciiArt | 將圖片轉成ASCII風格
   
-- ### 描邊  
+- ### 描邊
 原始圖案|處理後
 -------|------
 ![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/dog.jpeg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/%E6%8F%8F%E9%82%8A/After.jpg)
@@ -59,4 +59,9 @@
 - ### 消除紅眼
 原始圖案|Mask|處理後
 ------|:-----:|----
-![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/cat.jpeg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/%E6%B5%AE%E9%9B%95_%E9%9B%95%E5%88%BB/Relief.jpg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/%E6%B5%AE%E9%9B%95_%E9%9B%95%E5%88%BB/Sculpture.jpg)
+![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/redEye.jpg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/%E6%B6%88%E9%99%A4%E7%B4%85%E7%9C%BC/Mask.jpg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/%E6%B6%88%E9%99%A4%E7%B4%85%E7%9C%BC/After.jpg)
+  
+- ### AsciiArt
+原始圖案|處理後
+-------|------
+![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/img%20%26%20mod/image/ascii.jpeg)|![image](https://raw.githubusercontent.com/qpal147147/Image-Processing_FinalHomework/master/SampleImage/AsciiArt/After.jpg)
