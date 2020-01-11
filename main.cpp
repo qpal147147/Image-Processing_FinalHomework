@@ -321,7 +321,7 @@ int main() {
 				}
 				case 8:
 				{
-					Mat image = imread("redEye.jfif", IMREAD_REDUCED_COLOR_2);
+					Mat image = imread("redEye.jpg", IMREAD_REDUCED_COLOR_2);
 					redEyeRemove(image);
 					break;
 				}
